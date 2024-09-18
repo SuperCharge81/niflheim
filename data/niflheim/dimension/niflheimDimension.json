@@ -1,0 +1,25 @@
+{
+    "type": "niflheim:niflheimtype",
+    "generator": {
+      "type": "minecraft:noise",
+      "settings": "niflheim:niflheim",
+      "biome_source": {
+        "type": "minecraft:multi_noise",
+        "biomes": [
+          {
+            "biome": "niflheim:strangecold",
+            "parameters": {
+              "continentalness": 0,
+              "depth": 0,
+              "erosion": 0,
+              "humidity": 0,
+              "offset": 0.0,
+              "temperature": 0.0,
+              "weirdness": 0
+            }
+          }
+          
+        ]
+      }
+    }  
+  }
